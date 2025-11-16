@@ -21,6 +21,7 @@ coverage.xml
 # Django
 *.sqlite3
 *.log
+.env
 
 # Node.js
 node_modules/
